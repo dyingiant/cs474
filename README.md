@@ -14,8 +14,9 @@
     "start": "nodemon index.js"
   },
 ```
-7. Run the file using the command : `npm start`
-8. Test the API on http://localhost:3000/rest/v1/
+7. In `index.js` replace `<PASSWORD>` with the password provided in the submission file
+8. Run the file using the command : `npm start`
+9. Test the API on http://localhost:3000/rest/v1/
 
 ## REST API
 ***GET Product***
